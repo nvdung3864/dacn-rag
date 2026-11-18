@@ -1,0 +1,1 @@
+{"name":"dacn-rag","version":"0.1.0","private":true,"type":"module","scripts":{"build":"npm --prefix frontend run build && rm -rf dist && cp -r frontend/dist dist","test":"npm --prefix frontend run typecheck"},"devDependencies":{}}
